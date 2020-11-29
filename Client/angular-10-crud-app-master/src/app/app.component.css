@@ -1,0 +1,14 @@
+.back{
+  background-color: #66CDAA;
+  width: auto;
+  height: auto;
+}
+
+
+.navbar-dark,.navbar-nav,.nav-link {
+  color: white !important;
+}
+
+.nav-link:hover{
+  color: black !important;
+}
